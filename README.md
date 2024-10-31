@@ -1,0 +1,1 @@
+# Capturar_Dados_Teperatura_Umidade
